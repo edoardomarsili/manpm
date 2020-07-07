@@ -53,7 +53,7 @@
     "@bahmutov/parse-github-repo-url": "0.1.0",
     "bluebird": "3.3.4",
     "check-more-types": "2.15.0",
-    "debug": "2.2.0",
+    "debug": "4.1.1",
     "get-package-readme": "1.2.0",
     "github-readme": "1.0.0",
     "lazy-ass": "1.4.0",
