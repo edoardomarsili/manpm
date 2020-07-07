@@ -99,7 +99,7 @@
   "devDependencies": {
     "ban-sensitive-files": "1.8.2",
     "condition-node-version": "1.2.0",
-    "eslint": "2.6.0",
+    "eslint": "7.4.0",
     "exact-semver": "1.2.0",
     "git-issues": "1.2.0",
     "mocha": "2.4.5",
